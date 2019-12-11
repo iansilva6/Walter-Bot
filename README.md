@@ -2,7 +2,7 @@
 Trabalho de Conclusão de Curso em Ciência da Computação pela Universidade Tiradentes.
 
 # Arquitetura
-![arquitetura.png]
+<img src="arquitetura.png" width="400" alt="Arquitetura">
 
 # Fluxo do Diálogo
-![fluxo.png]
+<img src="fluxo.png" width="400" alt="Fluxo do Diálogo">
